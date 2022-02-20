@@ -8,7 +8,8 @@
   2. 시각화 : matplotlib, seaborn, wordcloud
   3. 샘플링 : SMOTE
   4. 알고리즘 : sklearn, KNN, LDA, SVM, K-Means, GMM, SOM, DB_SCAN
-
+- 최종 PPT
+:https://github.com/hyegyu/CapstoneDesign2/blob/main/%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B82_%EB%B0%9C%ED%91%9C.pdf
 ### 1. 구글 API를 사용해서 데이터 수집 계획  
   - 구글에서 제공해주는 API는 하루에 제한이 있어서 만개가 넘는 데이터 수집까지 3달 예상  
     - 중단 후 방안 탐색
