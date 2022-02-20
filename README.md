@@ -1,6 +1,12 @@
 ## 유튜브 급상승 영상 분석
-- 간략한 진행 내용 정리  
 - 진행기간 : 2021.09 ~ 2021.11  
+- 목적 : 점점 커져가는 유튜브 시장 속에서 급상승 영상이 되는 요인 분석
+- 사용 툴 : Python / Jupyter
+- 사용 라이브러리 및 알고리즘
+  1. 크롤링 : BeautifulSoup, pytube, selenium
+  2. 시각화 : matplotlib, seaborn, wordcloud
+  3. 샘플링 : SMOTE
+  4. 알고리즘 : sklearn, KNN, LDA, SVM, K-Means, GMM, SOM, DB_SCAN
 
 ### 1. 구글 API를 사용해서 데이터 수집 계획  
   - 구글에서 제공해주는 API는 하루에 제한이 있어서 만개가 넘는 데이터 수집까지 3달 예상  
